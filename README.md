@@ -1,8 +1,9 @@
 # GST_analytics
 
 **If this notebook does not open then please try to contact me.**
-my Mail id : dassaurav4534@gmail.com
-my wp number : 8116615954
+my Mail id : dassaurav4534@gmail.com <br>
+my wp number : 8116615954 <br>
+youtube video: https://youtu.be/LP25JNag4sk?si=sbw8Ce0Dvj7B9vPy
 
 
 # Key methodology
